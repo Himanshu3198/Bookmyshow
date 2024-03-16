@@ -4,7 +4,7 @@ from pymongo import MongoClient
 
 from apps.Model.userModel import userAddModel
 
-db_url = 'mongodb+srv://himanshu3198:Rajveer1234@cluster0.prvug.mongodb.net/Bookmyshow?retryWrites=true&w=majority'
+db_url = 'your url'
 user_db_name = 'Bookmyshow'
 user_collection_name = 'b_users'
 
