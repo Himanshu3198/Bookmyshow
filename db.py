@@ -1,6 +1,6 @@
 from pymongo import MongoClient
 
-connection_string = 'mongodb+srv://himanshu3198:Rajveer1234@cluster0.prvug.mongodb.net/Bookmyshow?retryWrites=true&w=majority'
+connection_string = 'your connection string'
 collection_name = 'b_users'
 dummy_record = {
     "id": "himanshu3198",
